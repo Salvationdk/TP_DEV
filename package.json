@@ -1,10 +1,23 @@
 {
-  "name": "tizenpluto-mod",
-  "version": "1.0.2",
-  "description": "Pluto TV AdBlock Mod",
-  "packageType": "mods",
-  "appName": "Pluto TV",
+  "name": "tizenpluto",
+  "version": "1.0.5",
+  "description": "Pluto TV AdFree Web App for TizenBrew",
+  "packageType": "app",
+  "appName": "TizenPluto",
   "websiteURL": "https://pluto.tv",
   "main": "index.js",
-  "keys": []
+  "keys": [
+    "MediaPlay",
+    "MediaPause",
+    "MediaPlayPause",
+    "MediaStop",
+    "MediaRewind",
+    "MediaFastForward",
+    "MediaTrackPrevious",
+    "MediaTrackNext",
+    "ChannelUp",
+    "ChannelDown",
+    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"
+  ],
+  "icon": "icon.png"
 }
