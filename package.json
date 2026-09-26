@@ -1,23 +1,10 @@
 {
-  "name": "tizenpluto",
-  "version": "1.0.0",
-  "description": "Pluto TV med AdBlock (fungerer som en normal app)",
-  "packageType": "app",
-  "appName": "TizenPluto",
+  "name": "tizenpluto-mod",
+  "version": "1.0.2",
+  "description": "Pluto TV AdBlock Mod",
+  "packageType": "mods",
+  "appName": "Pluto TV",
   "websiteURL": "https://pluto.tv",
   "main": "index.js",
-  "keys": [
-    "MediaPlay",
-    "MediaPause",
-    "MediaPlayPause",
-    "MediaStop",
-    "MediaRewind",
-    "MediaFastForward",
-    "MediaTrackPrevious",
-    "MediaTrackNext",
-    "ChannelUp",
-    "ChannelDown",
-    "0", "1", "2", "3", "4", "5", "6", "7", "8", "9"
-  ],
-  "icon": "icon.png"
+  "keys": []
 }
